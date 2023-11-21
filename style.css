@@ -1,4 +1,5 @@
 *{
+    padding: 0;
     margin: 0;
     font-family: 'Inter', sans-serif;
 }
@@ -21,6 +22,7 @@
 
 #menusuperior{
     background-image: url(imagens/fundo-menusuperior.svg);
+    background-size: cover;
     color: aliceblue;
 }
 
